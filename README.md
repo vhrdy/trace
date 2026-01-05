@@ -4,7 +4,7 @@
 
 Generate Solana tax reports in seconds with FIFO/LIFO support, multi-wallet tracking, and accountant-ready CSV exports.
 
-![Trace Banner](./public/opengraph-image.png)
+![Trace Banner](./opengraph-image.png)
 
 ## Features
 
