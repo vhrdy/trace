@@ -1,0 +1,4 @@
+- a la deconnexion, rediriger vers la home.
+- quand je suis connecté et que je suis sur la home, rediriger automatiquement vers le dashboard (proxy ou middleware?)
+- preparer tout ce qu'il faut pour entrer le profil dans supabase, en incluant le plan choisi, le detail des transactions (stocké en json?)
+- navbar persistente. decouper les components stp.

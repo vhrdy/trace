@@ -1,0 +1,21 @@
+{
+  "name": "Trace - Solana Tax Tracker",
+  "short_name": "Trace",
+  "description": "Track every Solana transaction automatically. Generate tax reports in seconds.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F97316",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
